@@ -1,0 +1,19 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Build artifacts
+target/
+build/
+out/
+
+# Compiled class files
+*.class
+
+# Logs
+*.log
+
+# Temporary files
+.DS_Store
+Thumbs.db
+*.swp
