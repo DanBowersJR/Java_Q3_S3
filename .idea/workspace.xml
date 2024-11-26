@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e7186c0-48bd-423b-83a9-e1f850bf83c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/questionthree/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/questionthree/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/questionthree/Ellipse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/questionthree/EquilateralTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/questionthree/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/questionthree/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/questionfour/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/questionfour/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/questionfour/Ellipse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/questionfour/EquilateralTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/questionfour/Scalable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/questionfour/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/questionfour/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +53,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Demo.executor": "Run",
+    "Application.questionthree.Demo.executor": "Run",
     "Application.questiontwo.Demo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -66,17 +68,31 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/questionthree" />
       <recent name="$PROJECT_DIR$/src/questiontwo" />
       <recent name="$PROJECT_DIR$/src/questionone" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.questionthree.Demo">
+  <component name="RunManager" selected="Application.questionfour.Demo">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="questionone.Demo" />
       <module name="JAVA_Q3_S3" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="questionone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="questionfour.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="questionfour.Demo" />
+      <module name="JAVA_Q3_S3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="questionfour.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,6 +128,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.questionfour.Demo" />
         <item itemvalue="Application.questionthree.Demo" />
         <item itemvalue="Application.questiontwo.Demo" />
         <item itemvalue="Application.Demo" />
@@ -135,7 +152,7 @@
       <option name="presentableId" value="Default" />
       <updated>1732577760185</updated>
       <workItem from="1732577760191" duration="1836000" />
-      <workItem from="1732579604984" duration="4586000" />
+      <workItem from="1732579604984" duration="5551000" />
     </task>
     <servers />
   </component>
