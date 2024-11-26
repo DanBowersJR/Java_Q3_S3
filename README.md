@@ -1,14 +1,12 @@
-# JAVA_Q3_S3 Project
+JAVA_Q3_S3 Project
+This project contains solutions to four Java programming tasks, each demonstrating key object-oriented programming concepts such as inheritance, polymorphism, abstraction, and interfaces. Each solution is organized in a dedicated package within the src directory.
 
-This project contains solutions to four Java programming questions. Each solution is organized into its own package within the `src` directory.
-
-## How to Run
-1. Open the project in IntelliJ IDEA or any preferred Java IDE.
-2. Navigate to the desired package (e.g., `questionone`).
-3. Run the main file for the selected question.
-
-## Project Structure
-- `questionone`: Solution to Question 1.
-- `questiontwo`: Solution to Question 2.
-- `questionthree`: Solution to Question 3.
-- `questionfour`: Solution to Question 4.
+How to Run
+Open the project in IntelliJ IDEA or any compatible Java IDE.
+Navigate to the desired package (e.g., questionone).
+Run the Demo class within the selected package to see the implementation in action.
+Project Structure
+questionone: Implements a high school application using inheritance.
+questiontwo: Demonstrates class relationships with Point and MovablePoint.
+questionthree: Utilizes abstract classes for various geometric shapes.
+questionfour: Integrates the Scalable interface into shape classes for dynamic resizing.

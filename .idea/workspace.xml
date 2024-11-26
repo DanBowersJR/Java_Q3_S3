@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e7186c0-48bd-423b-83a9-e1f850bf83c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/questionfour/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/questionfour/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/questionfour/Ellipse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/questionfour/EquilateralTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/questionfour/Scalable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/questionfour/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/questionfour/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +46,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Demo.executor": "Run",
+    "Application.questionfour.Demo.executor": "Run",
     "Application.questionthree.Demo.executor": "Run",
     "Application.questiontwo.Demo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -68,6 +62,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/questionfour" />
       <recent name="$PROJECT_DIR$/src/questionthree" />
       <recent name="$PROJECT_DIR$/src/questiontwo" />
       <recent name="$PROJECT_DIR$/src/questionone" />
@@ -152,7 +147,7 @@
       <option name="presentableId" value="Default" />
       <updated>1732577760185</updated>
       <workItem from="1732577760191" duration="1836000" />
-      <workItem from="1732579604984" duration="5551000" />
+      <workItem from="1732579604984" duration="5711000" />
     </task>
     <servers />
   </component>
